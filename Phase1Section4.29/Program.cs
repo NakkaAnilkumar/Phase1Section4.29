@@ -11,6 +11,7 @@ namespace Phase1Section4._29
         static void Main(string[] args)
         {
             runApp();
+            Console.ReadLine();
         }
 
         public static void runApp()
@@ -55,7 +56,7 @@ namespace Phase1Section4._29
             {
                 Console.WriteLine(marks[z]);
             }
-            Console.ReadLine();
+            
 
         }
         
